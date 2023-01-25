@@ -38,7 +38,7 @@ jobs:
   build-api:
     runs-on: windows-latest
     steps:
-      - run: "Building API"
+      - run: echo "Building API"
 
   
   
